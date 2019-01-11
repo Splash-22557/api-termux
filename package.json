@@ -1,0 +1,26 @@
+{
+  "name": "api-termux",
+  "version": "1.0.0",
+  "description": "API wrapper for Termux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Splash-22557/api-termux.git"
+  },
+  "keywords": [
+    "termux",
+    "termux-api"
+  ],
+  "author": "splashie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Splash-22557/api-termux/issues"
+  },
+  "homepage": "https://github.com/Splash-22557/api-termux#readme",
+  "dependencies": {
+    "shelljs": "^0.8.3"
+  }
+}
